@@ -8,7 +8,7 @@ const projects: Project[] = [
     title: 'AI Trip Planner',
     description: '',
     image:
-      'https://images.unsplash.com/photo-1563986768609-322da13575f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
+      'https://images.unsplash.com/photo-1506485338023-6ce5f36692df?q=80&w=2070&auto=format&fit=crop&w=1350&q=80',
     tech: ['React', 'Redux', 'Gemini AI', "Google API's"],
     github: 'https://github.com/ishvinder9528/ai-trip-planner',
     live: 'https://ai-trip-planner-wheat.vercel.app/',
